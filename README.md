@@ -1,4 +1,4 @@
-# Starter Web Projecdt
+# Starter Web Project
 
 ## Introduction
 
